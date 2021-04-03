@@ -1,0 +1,9 @@
+body {
+	margin: 0%;
+	overflow: hidden;
+}
+.A {
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
